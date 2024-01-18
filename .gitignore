@@ -1,0 +1,3 @@
+*.mod
+*.md
+*_test.go
